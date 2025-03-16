@@ -12,13 +12,20 @@ cnt:"United States" loc:"California"
 ```
 (Finds all bird recordings from California.)
 audio files to download:
-[Birds California audio files](https://xeno-canto.org/explore?query=cnt:%22United%20States%22%20loc:%22California%22)
+[California bird audio files](https://xeno-canto.org/explore?query=cnt:%22United%20States%22%20loc:%22California%22)
+
+```
+grp:birds cnt:"United States" loc:"California forest"
+```
+[Birds in forests in CA audio files](https://xeno-canto.org/explore?query=grp:birds%20cnt:%22United%20States%22%20loc:%22California%20forest%22)
 
 ### Birds in Fire-Prone Habitats (Forests & Scrublands)
+
 ```
 cnt:"United States" loc:"California" hab:"coniferous forest"
 ```
 (Finds birds from fire-prone forests like pines and redwoods.)
+
 
 ### Scrubland Birds (Areas That Burn & Regrow Quickly)
 ```
