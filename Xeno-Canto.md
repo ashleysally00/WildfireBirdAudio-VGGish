@@ -12,7 +12,7 @@ cnt:"United States" loc:"California"
 ```
 (Finds all bird recordings from California.)
 audio files to download:
-[California bird audio files](https://xeno-canto.org/explore?query=cnt:%22United%20States%22%20loc:%22California%22)
+[California birds audio files](https://xeno-canto.org/explore?query=cnt:%22United%20States%22%20loc:%22California%22)
 
 ```
 grp:birds cnt:"United States" loc:"California forest"
