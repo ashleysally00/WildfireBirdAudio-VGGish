@@ -11,6 +11,8 @@ Type in search bar:
 cnt:"United States" loc:"California"
 ```
 (Finds all bird recordings from California.)
+audio files to download:
+https://xeno-canto.org/explore?query=cnt:%22United%20States%22%20loc:%22California%22
 
 ### Birds in Fire-Prone Habitats (Forests & Scrublands)
 ```
